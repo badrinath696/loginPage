@@ -11,10 +11,38 @@ This is a simple Login Page built using HTML and CSS. It provides Login by takes
 
 
 
+
 \## Features
 
-Email Login
-Password
-Login with
-Google account or
-Facebook account
+\- Email Login
+\- Password
+\- Login with
+\- Google account or
+\- Facebook account
+
+
+\## Tech Stack
+
+\- HTML
+
+\- CSS
+
+
+
+\## What I Learned
+
+\- CSS Flexbox
+
+\- Box model
+
+\- UI spacing
+
+\- Component structuring
+
+
+\## How to Run
+
+1\. Download or clone the repository
+
+2\. Open index.html in your browser
+

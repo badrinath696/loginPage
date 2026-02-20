@@ -6,7 +6,9 @@ This is a simple Login Page built using HTML and CSS. It provides Login by takes
 
 \## Preview
 
+
 ![preview](preview.png)
+
 
 \## Live Demo
 
@@ -16,9 +18,13 @@ https://badrinath696.github.io/loginPage/
 \## Features
 
 \- Email Login
+
 \- Password
+
 \- Login with
+
 \- Google account or
+
 \- Facebook account
 
 

@@ -42,6 +42,12 @@ https://badrinath696.github.io/loginPage/
 
 \- Box model
 
+\- Form
+
+\- Input
+
+\- Button
+
 \- UI spacing
 
 \- Component structuring

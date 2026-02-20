@@ -1,10 +1,20 @@
-/# Login Page
+\# Login Page
 
-/## Description
+\## Description
 
 This is a simple Login Page built using HTML and CSS. It provides Login by takes input as Email and Password or with help of Google account or Facebook account in a clean and minimal layout.
 
-/## Preview
+\## Preview
 ![preview](preview.png)
 
-/## Live Demo
+\## Live Demo
+
+
+
+\## Features
+
+Email Login
+Password
+Login with
+Google account or
+Facebook account

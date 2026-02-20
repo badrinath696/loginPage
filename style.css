@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    width: 100%;
+    background: #000;
+}
+body{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    
+    .container{
+        width:100%;
+        max-width:300px;
+        background: rgba(255,255,255,0.15);
+        border-radius: 15px;
+        border: none;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+
+        text-align: center;
+        font-family: sans-serif;
+        display:flex;
+        flex-direction: column;
+        color:#fff;
+
+        .heading{
+            font-weight: bold;
+            font-size: 1.7rem;
+            margin-bottom: 12px;
+            background: none;
+        }
+        form .username, .password{
+            margin: 10px;
+            /* width: 100%; */
+            font-size: 1rem;
+            font-weight: bold;
+            .pass ,.name{
+                width:100%;
+                padding: 8px;
+                margin: 11px;
+                font-weight: bold;
+                border: none;
+                border-radius: 2px;
+                color: rgba(255,255,255,0.4);
+                background: rgba(255,255,255,0.15);
+                font-size:12px;
+            }
+        }
+        .login{
+            margin:10px;
+            .btn{
+                width:100%;
+                padding:10px;
+                margin-left:10px;
+                margin-top:9px;
+                margin-bottom: 13px;
+                background:#fff;
+                font-weight: bold;
+                border: none;
+                border-radius: 2px;
+            }
+        }
+        .link{
+            width:100%;
+            .google{
+                padding-left: 4px;
+                padding-right: 25px;
+                margin-right: 8px;
+            }
+            .facebook{
+                padding-right: 25px;
+            }
+            a{
+                background: rgba(255,255,255,0.4);
+                padding: 3px 10px;
+                margin: 20px 8px;
+                border: none;
+                text-decoration: none;
+                font-weight: bold;
+                color: #fff;
+                border-radius: 2px;
+                img{
+                    margin-right: 4px;
+                    border-radius: 50%;
+                }
+            }
+        }
+
+    }   
+}
